@@ -1,1 +1,1 @@
-from missy_elliott import MissyElliott
+from .missy_elliott import MissyElliott
